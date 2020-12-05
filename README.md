@@ -1,4 +1,6 @@
-The problem is due to the [Advent of Code 2020](https://adventofcode.com/2020), day 4.
+The problem is due to the [Advent of Code 2020](https://adventofcode.com/2020), day 4.  You should add your code in `index.js`.  You will find the tests suite written up in `tests.js`.  `runner.js` is what runs when you hit the "Run" button and runs the tests using the two `Observables` defined in `index.js`.
+
+You should use rxjs to the greatest extent you can and should avoid side-effects at all costs.
 
 # Day 4: Passport Processing
 

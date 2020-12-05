@@ -1,4 +1,4 @@
-The problem is due to the (Advent of Code 2020)[https://adventofcode.com/2020], day 4.
+The problem is due to the [Advent of Code 2020](https://adventofcode.com/2020), day 4.
 
 # Day 4: Passport Processing
 
